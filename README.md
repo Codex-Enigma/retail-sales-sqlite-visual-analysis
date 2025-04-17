@@ -59,4 +59,4 @@ git clone https://github.com/Codex-Enigma/retail-sales-sqlite-python-visuals.git
 # 2. Open Jupyter Notebook or run the script
 jupyter lab
 # or
-python sales_analysis.py
+Sales_Data_Insights_with_SQLite_and_Charts.py
